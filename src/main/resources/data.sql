@@ -1,0 +1,1 @@
+insert into item values('phone',20.6);
